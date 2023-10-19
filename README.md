@@ -10,7 +10,7 @@ to install NPM packages and then run
 
 `npm start`
 
-<img src="https://i.imgur.com/R0twJkC.jpg" />
+<img src="https://i.imgur.com/nrjCYHg.jpg" />
 <img src="https://i.imgur.com/1HZGo5j.jpg" />
 <img src="https://i.imgur.com/sfI4LWV.jpg" />
 <img src="https://i.imgur.com/R0twJkC.jpg" />
